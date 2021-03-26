@@ -1,6 +1,6 @@
 ### Hello, I'm Jordan 👋
 
-- 🔭 I’m currently working on my bachelors in CS with a minor in Cyber Security Applications at CSU Long Beach.
+- 🔭 I’m currently working on my bachelors in CS at CSU Long Beach.
 - 🌱 I’m currently learning TypeScript/React/Node.
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for a 2021 summer software engineering internship opportunity.
