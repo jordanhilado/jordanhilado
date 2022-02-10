@@ -4,14 +4,14 @@ i'm currently an undergrad studying computer science. i love working on full-sta
 
 🔌 tech stack 🔨
 
-- 📱  Mobile:  React Native
-- 🗄  Backend:  Node.js Express
-- 🌐  Frontend: <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/> Next.js
-- 🛢  Database:  Postgresql SQLite
-- ⚙️  VCS:   Git GitHub Markdown MDX
-- 🔧  IDE's:  Visual Studio Code Vim
-- 🖥  Design:  Figma
+- 📱  Mobile:  <img src="https://img.shields.io/badge/-React%20Native-249DFE?logo=react&logoColor=fff" />
+- 🗄  Backend:  <img src="https://img.shields.io/badge/-Node.js-016F00?logo=node.js&logoColor=fff"/> <img src="https://img.shields.io/badge/-Express.js-249DFE?logo=express&logoColor=fff"/>
+- 🌐  Frontend: <img src="https://img.shields.io/badge/-React-60DAFA?logo=react&logoColor=fff"/> <img src="https://img.shields.io/badge/-Next.js-2a71eb?logo=next.js"/> <img src="https://img.shields.io/badge/-HTML5-d55532?logo=html5&logoColor=fff" /> <img src="https://img.shields.io/badge/-CSS3-027DC5?logo=css3&logoColor=fff" />
+- 🛢  Database:  <img src="https://img.shields.io/badge/-PostgreSQL-326790?logo=postgresql&logoColor=fff" /> <img src="https://img.shields.io/badge/-SQLite-01394D?logo=sqlite&logoColor=fff" />
+- ⚙️  VCS:   <img src="https://img.shields.io/badge/-Git-E84E30?logo=git&logoColor=fff" /> <img src="https://img.shields.io/badge/-GitHub-6e5494?logo=github&logoColor=fff" /> <img src="https://img.shields.io/badge/-Markdown-28A3E0?logo=markdown&logoColor=fff" /> 
+- 🔧  IDE's:  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066B9?logo=visual-studio-code&logoColor=fff" /> <img src="https://img.shields.io/badge/-Vim-039331?logo=vim&logoColor=fff" />
+- 🖥  Design:  <img src="https://img.shields.io/badge/-Figma-EA4A1D?logo=figma&logoColor=fff" />
 
-<img align="left" alt="Jordan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordanhilado&show_icons=true&theme=radical"/>
+<img align="left" alt="Jordan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordanhilado&show_icons=true&theme=react"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanhilado&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanhilado&show_icons=true&theme=react)
