@@ -1,8 +1,8 @@
-### Hello, I'm Jordan 👨‍💻
+# Hello, I'm Jordan 👨‍💻
 
 > I'm a computer science undergrad who loves to work on full-stack web and mobile applications!
 
-🔌 Tech Stack 🔨
+## 🔌 Tech Stack 🔨
 
 - ⌨️  Languages: <img src="https://img.shields.io/badge/-Python-336C99?logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/-JavaScript-FDDD01?logo=javascript&logoColor=fff" /> <img src="https://img.shields.io/badge/-TypeScript-3174BE?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/-Java-F9971C?logo=java&logoColor=fff" />
 - 📱  Mobile:  <img src="https://img.shields.io/badge/-React%20Native-249DFE?logo=react&logoColor=fff" /> <img src="https://img.shields.io/badge/-Android%20Studio-3CDC85?logo=android-studio&logoColor=fff" />
