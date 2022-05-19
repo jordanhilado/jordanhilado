@@ -13,7 +13,3 @@
 - ⚙️  VCS:   <img src="https://img.shields.io/badge/-Git-E84E30?logo=git&logoColor=fff" /> <img src="https://img.shields.io/badge/-GitHub-6e5494?logo=github&logoColor=fff" /> <img src="https://img.shields.io/badge/-Markdown-28A3E0?logo=markdown&logoColor=fff" /> 
 - 🔧  IDE's:  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066B9?logo=visual-studio-code&logoColor=fff" /> <img src="https://img.shields.io/badge/-Vim-039331?logo=vim&logoColor=fff" /> <img src="https://img.shields.io/badge/-Xcode-1A85DD?logo=xcode&logoColor=fff" />
 - 🖥  Design:  <img src="https://img.shields.io/badge/-Figma-EA4A1D?logo=figma&logoColor=fff" />
-
-<img align="left" alt="Jordan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordanhilado&show_icons=true&theme=react"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanhilado&show_icons=true&theme=react)
