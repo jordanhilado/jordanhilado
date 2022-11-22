@@ -1,5 +1,5 @@
-## Hello, I'm Jordan 👨‍💻
+## Hi, I'm Jordan 👨‍💻
 
-> I'm an undergrad student studying computer science who is passionate about building full-stack applications!
+I'm a junior computer science student who is passionate about building full-stack applications!
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanhilado&layout=compact)](https://github.com/jordanhilado)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanhilado&layout=compact&theme=dark)](https://github.com/jordanhilado)
