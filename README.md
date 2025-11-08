@@ -1,1 +1,1 @@
-Hello! I am a software engineer for Microsoft Azure currently living in San Francisco. In my free time, I am either building side projects or completing my master's degree in CS and ML at Georgia Tech. Outside of my computer, I am either running, golfing, or snowboarding!
+
